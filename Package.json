@@ -1,0 +1,26 @@
+{
+    "name": "employee-tracker",
+    "version": "1.01A",
+    "description": "A command-line application built with Node.js to manage a company's employee database, allowing operations on departments, roles, and employees.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "employee-management",
+      "database",
+      "nodejs",
+      "command-line",
+      "mysql"
+    ],
+    "author": "Khoi Nguyen",
+    "license": "MIT",
+    "dependencies": {
+      "dotenv": "^8.2.0",
+      "inquirer": "^8.2.4",
+      "mysql2": "^2.3.0",
+      "console.table": "^0.10.0"
+    }
+  }
+  
