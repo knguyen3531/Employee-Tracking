@@ -1,3 +1,4 @@
+Employee Tracker
 Overview
 Employee Tracker is a command-line application built with Node.js that allows you to manage a company's employee database. With this application, you can perform operations on departments, roles, and employees, making it easier to keep track of your organization's workforce.
 
